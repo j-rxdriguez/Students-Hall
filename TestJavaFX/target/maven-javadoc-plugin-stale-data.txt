@@ -1,0 +1,40 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/jesus/Documents/NetBeansProjects/TestJavaFX/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jesus/Documents/NetBeansProjects/TestJavaFX/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JR_Student_Hall 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/jesus/Documents/NetBeansProjects/TestJavaFX/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JR_Student_Hall 1.0-SNAPSHOT API'
+com.mycompany.testjavafx
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\src\main\java\module-info.java = 1682597784945
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\src\main\java = 1682597784947
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\allclasses-frame.html = 1684328598469
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\allclasses-noframe.html = 1684328598471
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\constant-values.html = 1684328598445
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\deprecated-list.html = 1684328598468
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\help-doc.html = 1684328598475
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\index-all.html = 1684328598465
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\index.html = 1684328598472
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\overview-tree.html = 1684328598458
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\package-list = 1684328598428
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\script.js = 1684328598478
+C:\Users\jesus\Documents\NetBeansProjects\TestJavaFX\target\site\apidocs\stylesheet.css = 1684328598477
